@@ -1,0 +1,51 @@
+ID	LATITUDINE_DEG	LONGITUDINE_DEG	LATITUDINE_DEC	LONGITUDINE_DEC	DESCRIZIONE	PIANTA	NOTE
+23	11°02'14.5''E	46°01'20.8''N	11.0373611111	46.0224444444	Vicino aiuola 4	Faggio	
+43	11°02'13.9''E	46°01'22.2''N	11.0371944444	46.0228333333	Sotto nucleo faggi	Pino silvestre	
+24	11°02'15.1''E	46°01'21.8''N	11.0375277778	46.0227222222	Aiuola 42	Abies concolor	
+14	11°02'14.1''E	46°01'20.7''N	11.03725	46.0224166667	Sotto lago grande, inizio siepe	Abete rosso	
+14b	11°02'14.4''E	46°01'20.4''N	11.0373333333	46.0223333333	Sotto lago grande	Pino silvestre	
+17	11°02'14.9''E	46°01'19.4''N	11.0374722222	46.0220555556	Sotto lago grande, vicino 14b	Pino silvestre	
+26	11°02'15.49'E	46°01'19.5''N	11.0376361111	46.0220833333	Percorso naturalistico, aiuola 45	Pinus contorta	
+27	11°02'15.4''E	46°01'17.9''N	11.0376111111	46.0216388889	Percorso naturalistico, aiuola 45, tabellato	Populus tremula	
+28	11°02'16.2''E	46°01'17.3''N	11.0378333333	46.0214722222	Percorso naturalistico, aiuola 45 vicino tabella lampone	Betulla	
+29	11°02'16.7''E	46°01'17.1''N	11.0379722222	46.0214166667	Percorso naturalistico, prima della passerella 3	Pino silvestre	
+13	11°02'16.3''E	46°01'15.3''N	11.0378611111	46.0209166667	Nel nucleo sopra aiuola 46	Populus tremula	
+25	11°02'13.7''E	46°01'15.43''N	11.0371388889	46.0209527778	Nel nucleo sopra aiuola 46	Populus tremula	
+22	11°02'13.9''E	46°01'13.7''N	11.0371944444	46.0204722222	Sotto i tre tabelloni informativi, in fondo a destra	Betulla	
+21	11°02'17.7''E	46°01'13.2''N	11.03825	46.0203333333	Percorso naturalistico	Larice	
+32	11°02'18.2''E	46°01'12.7''N	11.0383888889	46.0201944444	30m prima del punto panoramico	Larice	
+33	11°02'21.8''E	46°01'13.5''N	11.0393888889	46.0204166667	Punto panoramico	Larice	
+34	11°02'21.8''E	46°01'16.3''N	11.0393888889	46.0211944444	Sopra aiuola 48	Larice	
+18	11°02'23.5''E	46°01'17.4''N	11.0398611111	46.0215	20m direzione N da PC3	Larice	
+46	11°02'24.4''E	46°01'17.0''N	11.0401111111	46.0213888889	10m da 18 in direzione N	Larice	
+11	11°02'18.7''E	46°01'18.1''N	11.0385277778	46.0216944444	Percorso naturalistico, abete rosso tabellato	Abete rosso	
+19	11°02'18.2''E	46°01'15.9''N	11.0383888889	46.0210833333	Nella parte di siepe che va dall'angolo al nucleo di abete bianco, a met…	Abete rosso	
+51	11°02'19.8''E	46°01'18.2''N	11.0388333333	46.0217222222	Dopo il n.11 nella siepe sull'ultima pianta	Abete rosso	
+37	11°02'19.4''E	46°01'19.2''N	11.0387222222	46.022	Di fronte all'acero tabellato nel percorso naturalistico	Acer pseudoplatanus	
+7	11°02'18.7''E	46°01'19.8''N	11.0385277778	46.0221666667	Sopra lago piccolo	Picea pungens	
+39	11°02'17.6''E	46°01'20''N	11.0382222222	46.0222222222	Sopra lago medio	Abete rosso	
+20	11°02'20.1''E	46°01'22.1''N	11.0389166667	46.0228055556	Deposito sassi	Sorbo	
+47	11°02'21.0''E	46°01'21.4''N	11.0391666667	46.0226111111	50m dietro deposito attrezzi	Picea Pungens	
+38	11°02'20.5''E	46°01'21.8''N	11.0390277778	46.0227222222	Deposito mucchio terra	Larice	
+45	11°02'20.5''E	46°01'21.8''N	11.0390277778	46.0227222222	Proseguendo a N dalla 38	Larice	
+16	11°02'E	46°01'N			Vicino area picnic direzione S	Pinus cembra	
+42	11°02'18.7''E	46°01'21.6''N	11.0385277778	46.0226666667	5m direzione S da 16	Pinus cembra	
+15b	11°02'15.3''E	46°01'24.2''N	11.0375833333	46.0233888889	Ingresso	Faggio	
+40	11°02'19.8''E	46°01'20.4''N	11.0388333333	46.0223333333	A fianco casetta attrezzi	Pino silvestre	
+PC1	11°02'E	46°01'N			Nell'aiuola 2	Betulla	
+PC2	11°02'14.6''E	46°01'18.5''N	11.0373888889	46.0218055556	Sotto il mugo tabellato del percorso naturalistico	Populus tremula	
+PC3	11°02'25.2''E	46°01'18.2''N	11.0403333333	46.0217222222	Dosso nell'angolo a S	Larice	
+PC4	11°02'25.6''E	46°01'15.6''N	11.0404444444	46.021	A sinistra del cancello di servizio, vicino al punto panoramico, in fondo alla siepe di abete rosso	Betulla	
+PC5	11°02'23.7''E	46°01'20.3''N	11.0399166667	46.0223055556	30m a destra dell'acquedotto	Larice	
+PC6	11°02'23.4''E	46°01'17.5''N	11.0398333333	46.0215277778	10m a sinistra dell'acquedotto	Larice	
+PC7	11°02'23.4''E	46°01'21.8''N	11.0398333333	46.0227222222	20m da PC6 in direzione N	Betulla	
+PC8	11°02'23.6''E	46°01'24.5''N	11.0398888889	46.0234722222	Vicino al parcheggio principale, nei pressi della vecchia catena	Pioppo	
+PC9	11°02'21.7''E	46°01'23.4''N	11.0393611111	46.0231666667	20m direzione S da PC8, a destra del fossato	Betulla	
+PC10	11°02'E	46°01'N			Angolo Sud del boschetto di Picea Pungens	Larice	
+PC11	11°02'E	46°01'N			10m direzione S dall'ultimo nucleo di panche esterne al giardino	Sorbo	
+31	11°02'19.0''E	46°01'20.1''N	11.0386111111	46.02225	Sopra lago piccolo	Betulla	
+53	11°02'23.9''E	46°01'18.6''N	11.0399722222	46.0218333333	Bordo prato umido, direzione torbiera	Abete rosso	
+ritrovata_1	11°02'E	46°01'N			20m a destra dell'acquedotto	Abete rosso	
+nuova_1	11°02'E	46°01'N			Sotto al prato umido	Abete rosso	Rampichini
+nuova_2	11°02'E	46°01'N			Bordo del prato umido in direzione della torbiera	Larice	Rampichini
+nuova_3	11°02'E	46°01'N			Lariceto sul dosso, 10m dietro alla 32	Larice	
